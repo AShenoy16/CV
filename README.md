@@ -1,7 +1,7 @@
 
 # CV Links
 
-Below are the links realted to my CV
+Below are the links related to my CV
 
 ## Professional Experience
 
