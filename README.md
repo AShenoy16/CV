@@ -7,7 +7,7 @@ Below are the links related to my CV
 
 - [WIE Website](https://wie-web-app.vercel.app/)
 - [UoA Summer Research Assistant](https://veracity.wgtn.ac.nz/wp-content/uploads/2023/04/Exploring-the-conversations-around-trust-in-software-development-Summer-Research-Presentation-1.pdf)
-- [WDCC - UADS](https://wdcc-uads-member-app-v2-staging.fly.dev/)
+- [WDCC - UADS](https://desserts.wdcc.co.nz/)
 
 
 ## Projects
